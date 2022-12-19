@@ -3,6 +3,12 @@
 ![image](https://user-images.githubusercontent.com/76849575/208238743-5c8eeff2-8a39-4381-9be6-a79d92698059.png)
 
 
+### Guidelines:
+  - run the command  ```flutter pub get``` in the terminal before running it
+  - Check for version solving
+  - change the import statements
+
+
 ### Flutter app powered by TensorFlow
   
   - Uses MNIST dataset 
